@@ -28,8 +28,7 @@ The application aims to assist healthcare professionals by prioritizing patients
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/ai-healthcare-dashboard.git
-   cd ai-healthcare-dashboard
+   git clone https://github.com/chamseddinedoulaEsprit/medical-workflows.git
    ```
 
 2. Install dependencies:
