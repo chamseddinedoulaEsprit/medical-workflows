@@ -33,11 +33,6 @@ The application aims to assist healthcare professionals by prioritizing patients
 
 2. Install dependencies:
    ```
-   pip install -r requirements.txt
-   ```
-
-   If `requirements.txt` is not provided, install the following packages manually:
-   ```
    pip install streamlit pandas plotly reportlab requests smtplib twilio streamlit-lottie
    ```
 
